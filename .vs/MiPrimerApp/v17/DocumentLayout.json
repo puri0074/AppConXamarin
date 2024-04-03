@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Soporte\\source\\repos\\MiPrimerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE429B6-E030-4C4E-81DD-17375AE9C22F}|MiPrimerApp\\MiPrimerApp\\MiPrimerApp.csproj|c:\\users\\soporte\\source\\repos\\miprimerapp\\miprimerapp\\miprimerapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{DFE429B6-E030-4C4E-81DD-17375AE9C22F}|MiPrimerApp\\MiPrimerApp\\MiPrimerApp.csproj|solutionrelative:miprimerapp\\miprimerapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE429B6-E030-4C4E-81DD-17375AE9C22F}|MiPrimerApp\\MiPrimerApp\\MiPrimerApp.csproj|c:\\users\\soporte\\source\\repos\\miprimerapp\\miprimerapp\\miprimerapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE429B6-E030-4C4E-81DD-17375AE9C22F}|MiPrimerApp\\MiPrimerApp\\MiPrimerApp.csproj|solutionrelative:miprimerapp\\miprimerapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Soporte\\source\\repos\\MiPrimerApp\\MiPrimerApp\\MiPrimerApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiPrimerApp\\MiPrimerApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Soporte\\source\\repos\\MiPrimerApp\\MiPrimerApp\\MiPrimerApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "MiPrimerApp\\MiPrimerApp\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:41:57.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Soporte\\source\\repos\\MiPrimerApp\\MiPrimerApp\\MiPrimerApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MiPrimerApp\\MiPrimerApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Soporte\\source\\repos\\MiPrimerApp\\MiPrimerApp\\MiPrimerApp\\MainPage.xaml",
+              "RelativeToolTip": "MiPrimerApp\\MiPrimerApp\\MainPage.xaml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T17:16:51.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

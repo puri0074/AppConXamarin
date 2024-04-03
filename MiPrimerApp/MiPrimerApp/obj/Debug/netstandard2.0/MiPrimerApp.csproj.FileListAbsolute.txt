@@ -1,0 +1,16 @@
+C:\Users\Soporte\source\repos\MiPrimerApp\MiPrimerApp\MiPrimerApp\bin\Debug\netstandard2.0\MiPrimerApp.deps.json
+C:\Users\Soporte\source\repos\MiPrimerApp\MiPrimerApp\MiPrimerApp\bin\Debug\netstandard2.0\MiPrimerApp.dll
+C:\Users\Soporte\source\repos\MiPrimerApp\MiPrimerApp\MiPrimerApp\bin\Debug\netstandard2.0\ref\MiPrimerApp.dll
+C:\Users\Soporte\source\repos\MiPrimerApp\MiPrimerApp\MiPrimerApp\bin\Debug\netstandard2.0\MiPrimerApp.pdb
+C:\Users\Soporte\source\repos\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\MiPrimerApp.csproj.AssemblyReference.cache
+C:\Users\Soporte\source\repos\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\MiPrimerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\source\repos\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Soporte\source\repos\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Soporte\source\repos\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\MiPrimerApp.AssemblyInfoInputs.cache
+C:\Users\Soporte\source\repos\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\MiPrimerApp.AssemblyInfo.cs
+C:\Users\Soporte\source\repos\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\MiPrimerApp.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\source\repos\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Soporte\source\repos\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\MiPrimerApp.dll
+C:\Users\Soporte\source\repos\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\refint\MiPrimerApp.dll
+C:\Users\Soporte\source\repos\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\MiPrimerApp.pdb
+C:\Users\Soporte\source\repos\MiPrimerApp\MiPrimerApp\MiPrimerApp\obj\Debug\netstandard2.0\MiPrimerApp.sourcelink.json
